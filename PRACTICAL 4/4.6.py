@@ -1,4 +1,4 @@
-Write a program to display the Fibonacci sequences up to nth term where n is provided by the user.
+# Write a program to display the Fibonacci sequences up to nth term where n is provided by the user.
 
 
 def fib(n):
