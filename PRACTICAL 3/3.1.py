@@ -1,4 +1,4 @@
-WAP to check if one No. is divisible by the other or not
+# WAP to check if one No. is divisible by the other or not
 
 print("Enter a Number (Numerator): ")
 numerator = int(input())
