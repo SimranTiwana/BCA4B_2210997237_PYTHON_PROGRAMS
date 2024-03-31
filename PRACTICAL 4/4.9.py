@@ -1,4 +1,4 @@
-WAP to compute Sum of the series 3 + 6 + 9 + … + 30
+# WAP to compute Sum of the series 3 + 6 + 9 + … + 30
 
 
 total = 0
