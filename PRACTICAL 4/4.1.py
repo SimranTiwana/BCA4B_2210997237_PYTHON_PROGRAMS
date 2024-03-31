@@ -1,4 +1,4 @@
-WAP to show working of a while Loop with a text
+# WAP to show working of a while Loop with a text
 
 word = "Simran Tiwana"
 index = 0
