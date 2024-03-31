@@ -1,4 +1,4 @@
-  WAP to print elements of a list[‘q’,’w’,’e’,’r’,’t’,’y’] in 3eparate
+#  WAP to print elements of a list[‘q’,’w’,’e’,’r’,’t’,’y’] in 3eparate
 	lines along with element’s both indexes (Positive and Negative).
 
  L=['q', 'w', 'e', 'r', 't', 'y']
