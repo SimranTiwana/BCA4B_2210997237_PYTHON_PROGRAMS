@@ -1,4 +1,4 @@
-WAP to show the working of break and continue statement
+# WAP to show the working of break and continue statement
 
 num  = int(input('Enter a number: '))
 while num < 15:
