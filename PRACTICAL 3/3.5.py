@@ -1,6 +1,4 @@
-WAP to accept sales amount for the salesman. Compute
-commission as 20% of sales amount if sales amount>=15000,
-comm as 15% if sales amount >=1000 else comm as 10 %.
+# WAP to accept sales amount for the salesman. Compute commission as 20% of sales amount if sales amount>=15000, comm as 15% if sales amount >=1000 else comm as 10 %.
 Display the result.
 
 sales_amount = float(input("Enter the sales amount: "))
