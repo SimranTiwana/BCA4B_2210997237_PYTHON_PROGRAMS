@@ -1,4 +1,4 @@
-WAP to compute sum of first n natural numbers
+# WAP to compute sum of first n natural numbers
 
 n = int(input("Enter a number: "))
 sum = 0
