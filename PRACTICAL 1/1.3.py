@@ -1,4 +1,4 @@
-WAP to compute compound Interest
+# WAP to compute compound Interest
 
 principal = int(input("Enter the principal amount: "))
 rate = int(input("Enter rate of interest: "))
