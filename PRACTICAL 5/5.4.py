@@ -1,4 +1,4 @@
-WAP to create a 3*3 Matrix and how to extract individual elements of the matrix
+# WAP to create a 3*3 Matrix and how to extract individual elements of the matrix
 
 matrix = [[11, 12, 23],
           [45, 65, 36],
