@@ -1,4 +1,4 @@
-WAP to demonstrate Slicing Operations in Strings
+# WAP to demonstrate Slicing Operations in Strings
 
 a = "Welcome to Chitkara University!"
 print("Original string:", a)
