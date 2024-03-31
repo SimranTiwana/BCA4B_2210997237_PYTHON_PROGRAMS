@@ -1,4 +1,4 @@
-WAP to check if a Number is +ve, -ve or zero
+# WAP to check if a Number is +ve, -ve or zero
 
 number = float(input("Enter a number: "))
 if number > 0:
