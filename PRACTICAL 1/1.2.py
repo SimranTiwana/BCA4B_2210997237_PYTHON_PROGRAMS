@@ -1,4 +1,4 @@
-WAP to calculate Avg. marks of 3 subjects
+# WAP to calculate Avg. marks of 3 subjects
 
 subject1 = float(input("Enter the marks of subject 1: "))
 subject2 = float(input("Enter the marks of subject 2: "))
