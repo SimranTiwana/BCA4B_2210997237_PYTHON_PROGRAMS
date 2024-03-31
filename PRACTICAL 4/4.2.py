@@ -1,4 +1,4 @@
-WAP to show working of a while Loop with a Numbers
+# WAP to show working of a while Loop with a Numbers
 
 num = 1
 while num <= 10:
