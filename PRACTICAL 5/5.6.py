@@ -1,4 +1,4 @@
-WAP to calculate the mean, variance and std. deviation of given list of numbers
+# WAP to calculate the mean, variance and std. deviation of a given list of numbers
 
 raw_list = [10, 20, 30, 40, 50]
 mean = sum(raw_list) / len(raw_list)
