@@ -1,4 +1,4 @@
-WAP to compute factorial of a Number
+# WAP to compute factorial of a Number
 
 def facto(n):
     if n == 0:
