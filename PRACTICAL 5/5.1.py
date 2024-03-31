@@ -1,4 +1,4 @@
-WAP to show the creation and working of lists
+# WAP to show the creation and working of lists
 
 my_list = [1, 2, 3, 4, 5]
 print("Elements of the list:")
