@@ -1,4 +1,4 @@
-WAP to demonstrate built-in functions in Lists
+# WAP to demonstrate built-in functions in Lists
 
 values = [0,32,16,88,72,12]
 print("Length of the list:", len(values))
