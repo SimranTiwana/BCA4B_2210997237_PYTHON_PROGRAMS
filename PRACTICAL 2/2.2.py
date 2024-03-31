@@ -1,4 +1,4 @@
-WAP to demonstrate built in functions of Strings
+# WAP to demonstrate built-in functions of Strings
 
 a = "My roll no is 7237"
 
