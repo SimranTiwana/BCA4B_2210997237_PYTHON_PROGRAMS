@@ -1,4 +1,4 @@
-WAP to the use of else statement with while and break
+# WAP to the use of else statement with while and break
 
 num = 0
 while num < 10:
